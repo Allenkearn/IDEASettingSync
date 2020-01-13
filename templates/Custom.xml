@@ -1,0 +1,12 @@
+<templateSet group="Custom">
+  <template name="cc" value="/**&#10; * @description: TODO.&#10; * @author: $USER$ (mckz1024@gmail.com)&#10; * @date: $DATE$ $TIME$&#10; */" description="class comment" toReformat="false" toShortenFQNames="true">
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

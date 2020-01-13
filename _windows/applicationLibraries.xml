@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="servlet-api">
+      <CLASSES>
+        <root url="jar://E:/apache-tomcat-7.0.79/lib/servlet-api.jar!/" />
+        <root url="jar://E:/apache-tomcat-7.0.79/lib/jsp-api.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://G:/IDEA/flcit-cms/WebContent/WEB-INF/lib" />
+      </SOURCES>
+      <jarDirectory url="file://G:/IDEA/flcit-cms/WebContent/WEB-INF/lib" recursive="false" type="SOURCES" />
+    </library>
+  </component>
+</application>
