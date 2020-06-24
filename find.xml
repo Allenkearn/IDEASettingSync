@@ -8,12 +8,12 @@
     <mask>*.mxml</mask>
     <mask>*.ftl</mask>
     <mask>*.dao</mask>
-    <mask>*.properties</mask>
     <mask>*.tld</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
