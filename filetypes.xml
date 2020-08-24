@@ -5,6 +5,7 @@
       <mapping pattern="questionnaire_form_main" type="JavaScript" />
       <mapping pattern=".locked" type="PLAIN_TEXT" />
       <mapping ext="action" type="PLAIN_TEXT" />
+      <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="setting" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
