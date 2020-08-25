@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '...\xenon-framework\xenon-core\src\main\java\com\bocai\constant [xenon-core]'" />
+    <option name="defaultScopeName" value="Directory '...\xenon-framework\xenon-core\src\main\java\com\bocai\constant [xenon-core]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\xenon-framework\xenon-core\src\main\java\com\bocai\constant [xenon-core]'" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
