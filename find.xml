@@ -12,9 +12,9 @@
     <mask>*.tld</mask>
     <mask>*.css</mask>
     <mask>*.properties</mask>
-    <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.jsp</mask>
     <mask>*.java</mask>
   </component>
 </application>
