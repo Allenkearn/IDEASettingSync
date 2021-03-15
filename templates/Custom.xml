@@ -1,5 +1,7 @@
 <templateSet group="Custom">
-  <template name="cc" value="/**&#10; * TODO.&#10; * @author Ray梅川酷子 (mckz1024@gmail.com)&#10; * @date ${DATE}-${TIME}&#10; */" description="class comment" toReformat="false" toShortenFQNames="true">
+  <template name="cc" value="/**&#10; * ${description}.&#10; * @author Ray梅川酷子 mckz1024@gmail.com&#10; * @date $DATE$ $TIME$&#10; */" description="class comment" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date(&quot;yyyy/MM/dd&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time(&quot;HH:mm&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
