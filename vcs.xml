@@ -150,9 +150,13 @@
           <option name="url" value="https://github.com/zuihou/lamp-web-plus.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/javaweb520/JavaWeb_Ant_Pro.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\IdeaProjects\found-iot" />
+    <option name="cloneParentDir" value="F:\OpenSource" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
