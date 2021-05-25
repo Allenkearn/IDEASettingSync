@@ -2,8 +2,8 @@
   <component name="EasyApiSetting">
     <option name="builtInConfig" value="" />
     <option name="postmanToken" value="" />
-    <option name="recommendConfigs" value="yapi_tag,support_mock_for_javax_validation,deprecated_kotlin,yapi_status,module,spring.validations,spring.ui,is_file,ignore_transient_field,Gson,support_mock_for_general,Jackson,converts,spring_Entity,deprecated_java,resolve_spring_properties,yapi_tag_kotlin,support_enum_common,import_spring_properties,yapi_mock,ignore_serialVersionUID,ignore,javax.validation" />
+    <option name="recommendConfigs" value="support_mock_for_javax_validation,javax.validation(grouped),deprecated_kotlin,yapi_status,spring.validations,Gson,support_mock_for_general,Jackson,spring_Entity,deprecated_java,resolve_spring_properties,support_enum_common,ignore,yapi_tag,module,spring.ui,is_file,ignore_transient_field,converts,yapi_tag_kotlin,import_spring_properties,yapi_mock,ignore_serialVersionUID,javax.validation" />
     <option name="yapiServer" value="http://192.168.2.10:3000" />
-    <option name="yapiTokens" value="#&#13;&#10;#Tue May 25 18:40:51 CST 2021&#13;&#10;foundiot-oauth=fc1123c9da1582c42c943c5a59fe9fcd515c2632a6ea5b5c358c514bdd936d36&#13;&#10;\u7528\u6237\u8BA4\u8BC1=fc1123c9da1582c42c943c5a59fe9fcd515c2632a6ea5b5c358c514bdd936d36&#13;&#10;" />
+    <option name="yapiTokens" value="#&#13;&#10;#Tue May 25 20:25:28 CST 2021&#13;&#10;foundiot-common=fc1123c9da1582c42c943c5a59fe9fcd515c2632a6ea5b5c358c514bdd936d36&#13;&#10;foundiot-oauth=fc1123c9da1582c42c943c5a59fe9fcd515c2632a6ea5b5c358c514bdd936d36&#13;&#10;\u7528\u6237\u8BA4\u8BC1=fc1123c9da1582c42c943c5a59fe9fcd515c2632a6ea5b5c358c514bdd936d36&#13;&#10;" />
   </component>
 </application>
