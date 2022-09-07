@@ -1,8 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PREVENT DUPLICATION PREFIX" />
       <item value="sys user" />
       <item value="reinstatement" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1662535529361" />
   </component>
 </application>
